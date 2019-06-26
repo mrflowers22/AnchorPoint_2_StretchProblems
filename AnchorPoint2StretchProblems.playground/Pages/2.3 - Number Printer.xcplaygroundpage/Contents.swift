@@ -20,6 +20,7 @@
  |   |
   ---
  ```
+ 
  ### Black Diamond 💎💎💎
  - Modify the function to take an `Int` with multiple digits and print each number in the same fashion on a single Line.
  - For example, if you pass 257 the console might look something like this:

@@ -1,10 +1,7 @@
 /*:
  # Monday Stretch Problem 2.1
- 
  ## Properties { get set }
- 
  ### Instructions - PART 1
- 
  - Make a constant called `currentYear` that is an integer equal to the current year (e.g. 2016).
  - Create a `Person` struct with properties for first name as a `String`, last name as a `String`, and year of birth as an `Int`.
  - Create an instance of the `Person` struct

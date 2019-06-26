@@ -4,6 +4,6 @@
         <page name='2.1 - Properties { get set }'/>
         <page name='2.2 - Protocols and Protocol Extensions'/>
         <page name='2.3 - Number Printer'/>
-        <page name='2.4'/>
+        <page name='2.4 - Ternary Operator'/>
     </pages>
 </playground>
