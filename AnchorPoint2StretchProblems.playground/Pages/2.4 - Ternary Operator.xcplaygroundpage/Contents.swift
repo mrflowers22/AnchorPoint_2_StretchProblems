@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Number Printer](@previous)
 /*:
  # Thursday Stretch Problem 2.4
  ## Ternary Operator

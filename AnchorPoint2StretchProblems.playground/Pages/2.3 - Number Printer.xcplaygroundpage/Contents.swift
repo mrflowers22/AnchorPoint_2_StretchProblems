@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Protocols](@previous)
 /*:
  # Wednesday Stretch Problem 2.3
  ## Number Printer
@@ -40,4 +40,4 @@ import Foundation
 
 
 
-//: [Next](@next)
+//: [Ternary Operator](@next)
