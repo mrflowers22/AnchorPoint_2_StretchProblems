@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='2.1 - Properties { get set }'/>
         <page name='2.2 - Protocols and Protocol Extensions'/>
-        <page name='2.3'/>
+        <page name='2.3 - Number Printer'/>
         <page name='2.4'/>
     </pages>
 </playground>
