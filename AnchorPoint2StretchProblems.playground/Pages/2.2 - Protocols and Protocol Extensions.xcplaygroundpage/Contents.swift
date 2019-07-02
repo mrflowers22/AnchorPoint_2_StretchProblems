@@ -1,4 +1,4 @@
-//: [Previous](@previous)
+//: [Properties](@previous)
 /*:
  # Tuesday Stretch Problem 2.2
  ## Protocols and Protocol Extensions
@@ -20,4 +20,4 @@ import Foundation
 
 
 
-//: [Next](@next)
+//: [Number Printer](@next)

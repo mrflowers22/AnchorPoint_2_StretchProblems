@@ -24,4 +24,4 @@ import Foundation
 
 
 
-//: [Next](@next)
+//: [Protocols](@next)
