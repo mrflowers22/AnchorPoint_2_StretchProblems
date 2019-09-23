@@ -20,8 +20,26 @@
  */
 import Foundation
 
-
-
-
-
+let currentYear = 2019
+struct Person {
+    let firstName:String
+    let lastName:String
+    var yearOfBirth: Int
+    
+    var age: Int {
+        get {
+            //this is when you use dot notation
+            return currentYear - yearOfBirth
+        }
+        set {
+            //set is when you use the = sign
+            yearOfBirth = (currentYear - newValue)
+        }
+    }
+}
+var person1 = Person(firstName: "happy", lastName: "gilmore", yearOfBirth: 1995)
+print("\(person1.yearOfBirth), \(person1.firstName), \(person1.lastName)")
+print("\(person1.age)")
+person1.age = 33
+print("\(person1.yearOfBirth)")
 //: [Protocols](@next)
